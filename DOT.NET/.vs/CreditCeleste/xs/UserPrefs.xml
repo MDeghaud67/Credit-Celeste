@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{EE3F1EE6-A2A5-4C22-8902-9DFD43AD0D51}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="frmVoiture.vb">
+    <Files>
+      <File FileName="frmCredit.vb" Line="1" Column="1" />
+      <File FileName="frmVoiture.vb" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CreditCeleste PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

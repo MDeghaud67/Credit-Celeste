@@ -1,0 +1,125 @@
+D:/ADIL/SLAM4/CreditCeleste/CreditCeleste/bin/Debug/CreditCeleste.exe.config
+D:/ADIL/SLAM4/CreditCeleste/CreditCeleste/bin/Debug/CreditCeleste.exe
+D:/ADIL/SLAM4/CreditCeleste/CreditCeleste/bin/Debug/CreditCeleste.pdb
+D:/ADIL/SLAM4/CreditCeleste/CreditCeleste/bin/Debug/CreditCeleste.xml
+D:/ADIL/SLAM4/CreditCeleste/CreditCeleste/obj/Debug/CreditCeleste.vbprojResolveAssemblyReference.cache
+D:/ADIL/SLAM4/CreditCeleste/CreditCeleste/obj/Debug/CreditCeleste.frmAccueil.resources
+D:/ADIL/SLAM4/CreditCeleste/CreditCeleste/obj/Debug/CreditCeleste.frmIntroduction.resources
+D:/ADIL/SLAM4/CreditCeleste/CreditCeleste/obj/Debug/CreditCeleste.Resources.resources
+D:/ADIL/SLAM4/CreditCeleste/CreditCeleste/obj/Debug/CreditCeleste.vbproj.GenerateResource.cache
+D:/ADIL/SLAM4/CreditCeleste/CreditCeleste/obj/Debug/CreditCeleste.vbproj.CoreCompileInputs.cache
+D:/ADIL/SLAM4/CreditCeleste/CreditCeleste/obj/Debug/CreditCeleste.exe
+D:/ADIL/SLAM4/CreditCeleste/CreditCeleste/obj/Debug/CreditCeleste.xml
+D:/ADIL/SLAM4/CreditCeleste/CreditCeleste/obj/Debug/CreditCeleste.pdb
+C:/Users/mdeghaud/Desktop/Bersanukaev/CreditCeleste/CreditCeleste/bin/Debug/CreditCeleste.exe.config
+C:/Users/mdeghaud/Desktop/Bersanukaev/CreditCeleste/CreditCeleste/bin/Debug/CreditCeleste.exe
+C:/Users/mdeghaud/Desktop/Bersanukaev/CreditCeleste/CreditCeleste/bin/Debug/CreditCeleste.pdb
+C:/Users/mdeghaud/Desktop/Bersanukaev/CreditCeleste/CreditCeleste/bin/Debug/CreditCeleste.xml
+C:/Users/mdeghaud/Desktop/Bersanukaev/CreditCeleste/CreditCeleste/obj/Debug/CreditCeleste.vbprojResolveAssemblyReference.cache
+C:/Users/mdeghaud/Desktop/Bersanukaev/CreditCeleste/CreditCeleste/obj/Debug/CreditCeleste.frmAccueil.resources
+C:/Users/mdeghaud/Desktop/Bersanukaev/CreditCeleste/CreditCeleste/obj/Debug/CreditCeleste.frmIntroduction.resources
+C:/Users/mdeghaud/Desktop/Bersanukaev/CreditCeleste/CreditCeleste/obj/Debug/CreditCeleste.Resources.resources
+C:/Users/mdeghaud/Desktop/Bersanukaev/CreditCeleste/CreditCeleste/obj/Debug/CreditCeleste.vbproj.GenerateResource.cache
+C:/Users/mdeghaud/Desktop/Bersanukaev/CreditCeleste/CreditCeleste/obj/Debug/CreditCeleste.vbproj.CoreCompileInputs.cache
+C:/Users/mdeghaud/Desktop/Bersanukaev/CreditCeleste/CreditCeleste/obj/Debug/CreditCeleste.exe
+C:/Users/mdeghaud/Desktop/Bersanukaev/CreditCeleste/CreditCeleste/obj/Debug/CreditCeleste.xml
+C:/Users/mdeghaud/Desktop/Bersanukaev/CreditCeleste/CreditCeleste/obj/Debug/CreditCeleste.pdb
+F:/CreditCeleste/bin/Debug/CreditCeleste.exe.config
+F:/CreditCeleste/bin/Debug/CreditCeleste.exe
+F:/CreditCeleste/bin/Debug/CreditCeleste.pdb
+F:/CreditCeleste/bin/Debug/CreditCeleste.xml
+F:/CreditCeleste/obj/Debug/CreditCeleste.vbprojResolveAssemblyReference.cache
+F:/CreditCeleste/obj/Debug/CreditCeleste.frmAccueil.resources
+F:/CreditCeleste/obj/Debug/CreditCeleste.frmIntroduction.resources
+F:/CreditCeleste/obj/Debug/CreditCeleste.Resources.resources
+F:/CreditCeleste/obj/Debug/CreditCeleste.vbproj.GenerateResource.cache
+F:/CreditCeleste/obj/Debug/CreditCeleste.vbproj.CoreCompileInputs.cache
+F:/CreditCeleste/obj/Debug/CreditCeleste.exe
+F:/CreditCeleste/obj/Debug/CreditCeleste.xml
+F:/CreditCeleste/obj/Debug/CreditCeleste.pdb
+F:/CreditCeleste/obj/Debug/CreditCeleste.frmVoiture.resources
+F:/CreditCeleste/obj/Debug/CreditCeleste.frmCredit.resources
+F:/CreditCeleste 1/bin/Debug/CreditCeleste.exe.config
+F:/CreditCeleste 1/bin/Debug/CreditCeleste.exe
+F:/CreditCeleste 1/bin/Debug/CreditCeleste.pdb
+F:/CreditCeleste 1/bin/Debug/CreditCeleste.xml
+F:/CreditCeleste 1/obj/Debug/CreditCeleste.vbprojResolveAssemblyReference.cache
+F:/CreditCeleste 1/obj/Debug/CreditCeleste.frmAccueil.resources
+F:/CreditCeleste 1/obj/Debug/CreditCeleste.frmCredit.resources
+F:/CreditCeleste 1/obj/Debug/CreditCeleste.frmIntroduction.resources
+F:/CreditCeleste 1/obj/Debug/CreditCeleste.frmVoiture.resources
+F:/CreditCeleste 1/obj/Debug/CreditCeleste.Resources.resources
+F:/CreditCeleste 1/obj/Debug/CreditCeleste.vbproj.GenerateResource.cache
+F:/CreditCeleste 1/obj/Debug/CreditCeleste.vbproj.CoreCompileInputs.cache
+F:/CreditCeleste 1/obj/Debug/CreditCeleste.vbproj.CopyComplete
+F:/CreditCeleste 1/obj/Debug/CreditCeleste.exe
+F:/CreditCeleste 1/obj/Debug/CreditCeleste.xml
+F:/CreditCeleste 1/obj/Debug/CreditCeleste.pdb
+F:/CreditCeleste 1/bin/Debug/Credit.dll
+F:/CreditCeleste 1/bin/Debug/Credit.pdb
+F:/CreditCeleste 1/bin/Debug/csClient2.dll
+F:/CreditCeleste 1/bin/Debug/csClient2.pdb
+F:/CreditCeleste 1/obj/Debug/CreditCeleste.frmClient.resources
+F:/CreditCeleste/bin/Debug/Credit.dll
+F:/CreditCeleste/bin/Debug/Credit.pdb
+F:/CreditCeleste/bin/Debug/csClient2.pdb
+F:/CreditCeleste/obj/Debug/CreditCeleste.frmClient.resources
+/Users/mdeghaud/Documents/CreditCeleste/obj/Debug/CreditCeleste.vbprojAssemblyReference.cache
+/Users/mdeghaud/Documents/CreditCeleste/obj/Debug/CreditCeleste.frmAccueil.resources
+/Users/mdeghaud/Documents/CreditCeleste/obj/Debug/CreditCeleste.frmClient.resources
+/Users/mdeghaud/Documents/CreditCeleste/obj/Debug/CreditCeleste.frmCredit.resources
+/Users/mdeghaud/Documents/CreditCeleste/obj/Debug/CreditCeleste.frmIntroduction.resources
+/Users/mdeghaud/Documents/CreditCeleste/obj/Debug/CreditCeleste.frmVoiture.resources
+/Users/mdeghaud/Documents/CreditCeleste/obj/Debug/CreditCeleste.Resources.resources
+/Users/mdeghaud/Documents/CreditCeleste/obj/Debug/CreditCeleste.vbproj.GenerateResource.cache
+/Users/mdeghaud/Documents/CreditCeleste/obj/Debug/CreditCeleste.vbproj.CoreCompileInputs.cache
+/Users/mdeghaud/Documents/CreditCeleste/obj/Debug/CreditCeleste.exe
+/Users/mdeghaud/Documents/CreditCeleste/obj/Debug/CreditCeleste.xml
+/Users/mdeghaud/Documents/CreditCeleste/obj/Debug/CreditCeleste.pdb
+/Users/mdeghaud/Documents/CreditCeleste/bin/Debug/CreditCeleste.exe.config
+/Users/mdeghaud/Documents/CreditCeleste/bin/Debug/CreditCeleste.exe
+/Users/mdeghaud/Documents/CreditCeleste/bin/Debug/CreditCeleste.pdb
+/Users/mdeghaud/Documents/CreditCeleste/bin/Debug/CreditCeleste.xml
+/Users/mdeghaud/Documents/CreditCeleste/bin/Debug/Credit.dll
+/Users/mdeghaud/Documents/CreditCeleste/bin/Debug/Credit.pdb
+/Users/mdeghaud/Documents/CreditCeleste/bin/Debug/csClient2.pdb
+/Users/mdeghaud/Documents/CreditCeleste/obj/Debug/CreditCeleste.vbproj.CopyComplete
+/Users/mdeghaud/Documents/CREDIT CELESTE/Credit Celeste VB.NET/bin/Debug/CreditCeleste.exe.config
+/Users/mdeghaud/Documents/CREDIT CELESTE/Credit Celeste VB.NET/bin/Debug/CreditCeleste.exe
+/Users/mdeghaud/Documents/CREDIT CELESTE/Credit Celeste VB.NET/bin/Debug/CreditCeleste.pdb
+/Users/mdeghaud/Documents/CREDIT CELESTE/Credit Celeste VB.NET/bin/Debug/CreditCeleste.xml
+/Users/mdeghaud/Documents/CREDIT CELESTE/Credit Celeste VB.NET/bin/Debug/Credit.pdb
+/Users/mdeghaud/Documents/CREDIT CELESTE/Credit Celeste VB.NET/bin/Debug/csClient2.pdb
+/Users/mdeghaud/Documents/CREDIT CELESTE/Credit Celeste VB.NET/obj/Debug/CreditCeleste.vbprojAssemblyReference.cache
+/Users/mdeghaud/Documents/CREDIT CELESTE/Credit Celeste VB.NET/obj/Debug/CreditCeleste.frmAccueil.resources
+/Users/mdeghaud/Documents/CREDIT CELESTE/Credit Celeste VB.NET/obj/Debug/CreditCeleste.frmClient.resources
+/Users/mdeghaud/Documents/CREDIT CELESTE/Credit Celeste VB.NET/obj/Debug/CreditCeleste.frmCredit.resources
+/Users/mdeghaud/Documents/CREDIT CELESTE/Credit Celeste VB.NET/obj/Debug/CreditCeleste.frmIntroduction.resources
+/Users/mdeghaud/Documents/CREDIT CELESTE/Credit Celeste VB.NET/obj/Debug/CreditCeleste.frmVoiture.resources
+/Users/mdeghaud/Documents/CREDIT CELESTE/Credit Celeste VB.NET/obj/Debug/CreditCeleste.Resources.resources
+/Users/mdeghaud/Documents/CREDIT CELESTE/Credit Celeste VB.NET/obj/Debug/CreditCeleste.vbproj.GenerateResource.cache
+/Users/mdeghaud/Documents/CREDIT CELESTE/Credit Celeste VB.NET/obj/Debug/CreditCeleste.vbproj.CoreCompileInputs.cache
+/Users/mdeghaud/Documents/CREDIT CELESTE/Credit Celeste VB.NET/obj/Debug/CreditCeleste.vbproj.CopyComplete
+/Users/mdeghaud/Documents/CREDIT CELESTE/Credit Celeste VB.NET/obj/Debug/CreditCeleste.exe
+/Users/mdeghaud/Documents/CREDIT CELESTE/Credit Celeste VB.NET/obj/Debug/CreditCeleste.xml
+/Users/mdeghaud/Documents/CREDIT CELESTE/Credit Celeste VB.NET/obj/Debug/CreditCeleste.pdb
+C:\Users\Michel\iCloudDrive\Documents\CREDIT CELESTE\Credit Celeste VB.NET\obj\Debug\CreditCeleste.vbprojResolveAssemblyReference.cache
+C:\Users\Michel\iCloudDrive\Documents\CREDIT CELESTE\Credit Celeste VB.NET\obj\Debug\CreditCeleste.frmAccueil.resources
+C:\Users\Michel\iCloudDrive\Documents\CREDIT CELESTE\Credit Celeste VB.NET\obj\Debug\CreditCeleste.frmAgence.resources
+C:\Users\Michel\iCloudDrive\Documents\CREDIT CELESTE\Credit Celeste VB.NET\obj\Debug\CreditCeleste.frmClient.resources
+C:\Users\Michel\iCloudDrive\Documents\CREDIT CELESTE\Credit Celeste VB.NET\obj\Debug\CreditCeleste.frmCollaborateur.resources
+C:\Users\Michel\iCloudDrive\Documents\CREDIT CELESTE\Credit Celeste VB.NET\obj\Debug\CreditCeleste.frmConcession.resources
+C:\Users\Michel\iCloudDrive\Documents\CREDIT CELESTE\Credit Celeste VB.NET\obj\Debug\CreditCeleste.frmCredit.resources
+C:\Users\Michel\iCloudDrive\Documents\CREDIT CELESTE\Credit Celeste VB.NET\obj\Debug\CreditCeleste.frmIntroduction.resources
+C:\Users\Michel\iCloudDrive\Documents\CREDIT CELESTE\Credit Celeste VB.NET\obj\Debug\CreditCeleste.frmSecteur.resources
+C:\Users\Michel\iCloudDrive\Documents\CREDIT CELESTE\Credit Celeste VB.NET\obj\Debug\CreditCeleste.frmVoiture.resources
+C:\Users\Michel\iCloudDrive\Documents\CREDIT CELESTE\Credit Celeste VB.NET\obj\Debug\CreditCeleste.Resources.resources
+C:\Users\Michel\iCloudDrive\Documents\CREDIT CELESTE\Credit Celeste VB.NET\obj\Debug\CreditCeleste.vbproj.GenerateResource.Cache
+C:\Users\Michel\iCloudDrive\Documents\CREDIT CELESTE\Credit Celeste VB.NET\obj\Debug\CreditCeleste.vbproj.CoreCompileInputs.cache
+C:\Users\Michel\iCloudDrive\Documents\CREDIT CELESTE\Credit Celeste VB.NET\bin\Debug\CreditCeleste.exe.config
+C:\Users\Michel\iCloudDrive\Documents\CREDIT CELESTE\Credit Celeste VB.NET\bin\Debug\CreditCeleste.exe
+C:\Users\Michel\iCloudDrive\Documents\CREDIT CELESTE\Credit Celeste VB.NET\bin\Debug\CreditCeleste.pdb
+C:\Users\Michel\iCloudDrive\Documents\CREDIT CELESTE\Credit Celeste VB.NET\bin\Debug\CreditCeleste.xml
+C:\Users\Michel\iCloudDrive\Documents\CREDIT CELESTE\Credit Celeste VB.NET\obj\Debug\CreditCeleste.exe
+C:\Users\Michel\iCloudDrive\Documents\CREDIT CELESTE\Credit Celeste VB.NET\obj\Debug\CreditCeleste.xml
+C:\Users\Michel\iCloudDrive\Documents\CREDIT CELESTE\Credit Celeste VB.NET\obj\Debug\CreditCeleste.pdb

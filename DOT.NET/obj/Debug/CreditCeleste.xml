@@ -1,0 +1,311 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CreditCeleste
+</name>
+</assembly>
+<members>
+<member name="T:CreditCeleste.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:CreditCeleste.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:CreditCeleste.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSet.CLIENTDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSet.commissionnerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSet.CREDITDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSet.MTFINDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSet.NBMENSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSet.NIVEAUDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSet.VEHICULEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSet.VENDEURDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSet.COLLABORATEURDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSet.SECTEURDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSet.AGENCEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSet.CONCESSIONDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSet.CLIENTRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSet.commissionnerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSet.CREDITRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSet.MTFINRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSet.NBMENSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSet.NIVEAURow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSet.VEHICULERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSet.VENDEURRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSet.COLLABORATEURRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSet.SECTEURRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSet.AGENCERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSet.CONCESSIONRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSet.CLIENTRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSet.commissionnerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSet.CREDITRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSet.MTFINRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSet.NBMENSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSet.NIVEAURowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSet.VEHICULERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSet.VENDEURRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSet.COLLABORATEURRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSet.SECTEURRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSet.AGENCERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSet.CONCESSIONRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSetTableAdapters.CLIENTTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSetTableAdapters.commissionnerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSetTableAdapters.CREDITTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSetTableAdapters.MTFINTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSetTableAdapters.NBMENSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSetTableAdapters.NIVEAUTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSetTableAdapters.VEHICULETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSetTableAdapters.VENDEURTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSetTableAdapters.COLLABORATEURTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSetTableAdapters.SECTEURTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSetTableAdapters.AGENCETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSetTableAdapters.CONCESSIONTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:CreditCeleste.creditCelesteDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(CreditCeleste.creditCelesteDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:CreditCeleste.creditCelesteDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(CreditCeleste.creditCelesteDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:CreditCeleste.creditCelesteDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(CreditCeleste.creditCelesteDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:CreditCeleste.creditCelesteDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:CreditCeleste.creditCelesteDataSetTableAdapters.TableAdapterManager.UpdateAll(CreditCeleste.creditCelesteDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:CreditCeleste.creditCelesteDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

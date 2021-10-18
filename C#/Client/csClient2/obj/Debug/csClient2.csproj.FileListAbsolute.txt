@@ -1,0 +1,12 @@
+F:\Credit Celeste 2\csClient2\csClient2\obj\Debug\csClient2.csprojResolveAssemblyReference.cache
+F:\Credit Celeste 2\csClient2\csClient2\obj\Debug\csClient2.csproj.CoreCompileInputs.cache
+F:\Credit Celeste 2\csClient2\csClient2\bin\Debug\csClient2.dll
+F:\Credit Celeste 2\csClient2\csClient2\bin\Debug\csClient2.pdb
+F:\Credit Celeste 2\csClient2\csClient2\obj\Debug\csClient2.dll
+F:\Credit Celeste 2\csClient2\csClient2\obj\Debug\csClient2.pdb
+F:\Credit Celeste 2\Client\csClient2\bin\Debug\csClient2.dll
+F:\Credit Celeste 2\Client\csClient2\bin\Debug\csClient2.pdb
+F:\Credit Celeste 2\Client\csClient2\obj\Debug\csClient2.csprojResolveAssemblyReference.cache
+F:\Credit Celeste 2\Client\csClient2\obj\Debug\csClient2.csproj.CoreCompileInputs.cache
+F:\Credit Celeste 2\Client\csClient2\obj\Debug\csClient2.dll
+F:\Credit Celeste 2\Client\csClient2\obj\Debug\csClient2.pdb
